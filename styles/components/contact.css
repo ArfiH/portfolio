@@ -1,0 +1,52 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+}
+
+.contact__heading {
+    color: var(--clr-light);
+    font-size: var(--size-4xl);
+}
+
+.contact__description {
+    text-align: center;
+    max-width: 60ch;
+    color: var(--clr-slate600);
+    font-size: var(--size-sm);
+}
+
+@media (min-width: 475px) {
+    .contact__heading {
+        font-size: var(--size-5xl);
+    }
+    
+    .contact__description {
+        font-size: var(--size-base);
+    }
+}
+
+
+@media (min-width: 768px) {
+    .contact__heading {
+        font-size: var(--size-6xl);
+    }
+
+    .contact__description {
+        font-size: var(--size-lg);
+    }
+}
+
+@media (min-width: 1024px) {
+    .contact__heading {
+        font-size: var(--size-6xl);
+    }
+    
+    .contact__description {
+        font-size: var(--size-2xl);
+    }
+}
+
