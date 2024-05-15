@@ -27,8 +27,8 @@
 .section {
     margin-top: 5rem;
     opacity: 0;
-    transform: translateX(100px);
-    transition: 300ms;
+    transform: translateX(200px);
+    transition: 600ms;
 }
 
 .section.show {
