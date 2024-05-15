@@ -26,6 +26,14 @@
 
 .section {
     margin-top: 5rem;
+    opacity: 0;
+    transform: translateX(100px);
+    transition: 300ms;
+}
+
+.section.show {
+    transform: translateX(0);
+    opacity: 1;
 }
 
 

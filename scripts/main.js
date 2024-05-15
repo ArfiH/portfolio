@@ -11,6 +11,10 @@ import '../styles/utils.css';
 
 import mobileNav from './utils/mobile-nav';
 import darkMode from './utils/dark-mode';
+import fadeLink from './utils/fade-link';
+import revealElements from './utils/reveal-elements';
 
 mobileNav();
 darkMode();
+fadeLink();
+revealElements();
