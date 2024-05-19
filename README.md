@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 My portfolio website **<portfolio-oaovs6nsu-arfihs-projects.vercel.app/>**
+- 👨‍💻 My portfolio website: https://portfolio-oaovs6nsu-arfihs-projects.vercel.app/ 
 
 - 📫 How to reach me **<arfihussain27@gmail.com>** or **<arfihussain@outlook.com>**
 <br>
